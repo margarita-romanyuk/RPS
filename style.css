@@ -1,0 +1,27 @@
+body{
+    background-color:#FFFFF0; 
+    font-family:Georgia;
+    font-size: 100%;
+}
+h1{
+    text-align: center;
+}
+/*centered image*/
+img{
+    display: block;
+    margin: auto;
+}
+.container{
+    text-align:center;	
+}
+#result-box {
+    background-color: #fff3cd;
+    color: #856404; /* Dark yellow text */
+    border: 1px solid #ffeeba;
+    padding: 15px; /* Add padding inside the box */
+    border-radius: 8px; /* Rounded corners */
+    text-align: center; /* Center-align the text */
+    font-weight: bold; /* Make the text bold */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
